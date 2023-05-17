@@ -57,6 +57,7 @@ VALUES ('custom'),
 	('SUV'),
 	('Truck'),
 	('Sedan');
+	
 
 -- Updated the inventory files so that the have /vehicles in them 
 UPDATE 
